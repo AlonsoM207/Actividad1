@@ -10,6 +10,7 @@ Exercises
 """
 
 from turtle import *
+import turtle
 
 from freegames import vector
 
